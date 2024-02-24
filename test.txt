@@ -1,5 +1,5 @@
 This is the first file in which I'm practicing git.
 second line
 adding third line
-hello world;
+hello world
 added fourth line
