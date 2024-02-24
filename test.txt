@@ -1,1 +1,2 @@
-This is the first file in which I'm practicing git
+This is the first file in which I'm practicing git.
+second line
